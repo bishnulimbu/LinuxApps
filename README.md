@@ -12,3 +12,7 @@
 
 (optional) you can also set alias for it in your current shell rc file for instant code run.
 
+
+
+also i am currently learning NodeJs and this was created mostly using some underhandly help(you know what i mean).
+
